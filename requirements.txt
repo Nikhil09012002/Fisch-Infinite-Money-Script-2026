@@ -1,0 +1,5 @@
+psutil
+mouse
+opencv-python
+pillow
+numpy
